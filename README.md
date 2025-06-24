@@ -40,4 +40,4 @@ _Add screenshots of your homepage, product page, and cart page here if available
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/hemanthravva33/ecommerce-website.git
